@@ -178,7 +178,7 @@ h1 {
 
 .conteudo ul li:hover {
     transform: translateX(10px);
-    color: var(--verde);
+    color: var(--verde-mente);
 }
 
 .home {
