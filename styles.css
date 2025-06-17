@@ -72,7 +72,7 @@ main {
 }
 
 .disciplina a {
-    color: var(--verde);
+    color: var(--verde-mente);
     font-size: 5rem;
     text-decoration: none;
 }
