@@ -13,12 +13,15 @@
     --azul-claro: #E4EFE7;
     --branco: #FFFFFF;
     --marron-claro: #FAF1E6;
+    --azulp:#004E64;
+    --cinza-claro:#F5F5F5;
+    --verde-mente:#3EB489;
 }
 
 body {
     height: 100vh;
     box-sizing: border-box;
-    background-color: var(--azul-claro);
+    background-color: var(--branco);
     color: var(--amarelo-claro);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
@@ -27,7 +30,7 @@ body {
 header {
     display: flex;
     width: 100%;
-    background-color: var(--marinho);
+    background-color: var(--azulp);
     padding: 1rem;
     position: relative;
     justify-content: center;
